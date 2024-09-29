@@ -8,9 +8,10 @@
 
 a {
     text-decoration: none;
+    color: #f6f9fc;
 }
 
-a:visited, figcaption:visited {
+a:visited {
     color: #f6f9fc;
 }
 
