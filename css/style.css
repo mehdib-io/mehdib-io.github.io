@@ -296,6 +296,7 @@ p {
 /* ---------- 2.1.5. About ---------- */
 .home__card--about {
     grid-area: about;
+    gap: 1em;
 }
 
 /* ---------- 2.1.6. Internship ---------- */
@@ -315,7 +316,7 @@ p {
 }
 
 /* ---------- 2.1.8. Projects ---------- */
-.home__card--projects {
+.home__card--projects__cards {
     grid-area: projects;
     display: flex;
     justify-content: start;
